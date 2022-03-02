@@ -43,16 +43,7 @@ div.WordSection1
 
 <body lang=EN-US style='word-wrap:break-word'>
 
-<div class=WordSection1>
-
-<p class=MsoNormal>This is a test</p>
-
-<p class=MsoNormal>&nbsp;</p>
-
-<p class=MsoNormal>&nbsp;</p>
-
-</div>
-
+test
 </body>
   )
 }
